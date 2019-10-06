@@ -12,7 +12,7 @@
 Robert Downey Jr. (PER)
 ```
 
-Note that (PER) is the entity type, which identifies a person. 
+Note that (PER) is an entity type, which identifies a person. 
   
 
 
