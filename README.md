@@ -12,9 +12,13 @@
 Robert Downey Jr. (PER)
 ```
 
-Note that (PER) is an entity type, which identifies a person. In order to conduct explore this area of NLP, the spacy library is required. 
-  
+Note that (PER) is an entity type, which identifies a person. In order to conduct explore this area of NLP, the spacy library is required, which can be installed in your command line interface by using pip or conda. 
 
+```
+$ pip install -U spacy
+$ conda install -c conda-forge spacy
+```
+After the installation was successful, I implemented a NLP pipeline (the spacy library performed most of the work) on a paragraph of text from the Amalfi Coast, Italy wikipedia page. The code allows me to parse words in each sentence and determine their relationship with one another.  
 
 
 
@@ -23,3 +27,5 @@ Note that (PER) is an entity type, which identifies a person. In order to conduc
 https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e
 
 https://www.wonderflow.co/blog/natural-language-processing-examples
+
+https://en.wikipedia.org/wiki/Amalfi_Coast
