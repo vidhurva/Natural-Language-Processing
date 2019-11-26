@@ -12,7 +12,7 @@
 Robert Downey Jr. (PER)
 ```
 
-Note that (PER) is an entity type, which identifies a person. In order to conduct explore this area of NLP, the spacy library is required, which can be installed in your command line interface by using pip or conda. 
+Note that (PER) is an entity type, which identifies a person. In order to explore this area of NLP, the spacy library is required, which can be installed in your command line interface by using pip or conda. 
 
 ```
 $ pip install -U spacy
